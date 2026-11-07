@@ -13,5 +13,5 @@
   ## 🚀 Quick Start
 
   ### For Users (EXE)
-  Download the file from the **Releases** section and run it.
+  Download the file from the **Tags** section and run it.
   
